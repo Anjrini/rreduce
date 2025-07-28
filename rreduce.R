@@ -5,7 +5,7 @@ rm(list = ls())
 rreduce<-function(x,y){ # x here is the vector of numbers and y is the direction of the calculation whether "right" or "left"
   
   func<- function(a,b){
-    return(1/a+b^2) # please change the variable "a" and "b" of the function of interest accordingly
+    return(1/a+b^2) # please change the variable "a" and "b" to the function of interest accordingly
   }
   
   #implementation
