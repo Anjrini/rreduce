@@ -28,7 +28,7 @@ Line 40: providing the vector x for the calculation of the left
 
 ## Exmaple
 
- I have provided an example using the vector $$c(2, 1, 2, 1,-1)$$ from the right and left with the comparison with the Reduce function in R.
+ I have provided an example using the function  $$y=\dfrac{1}{a} + b^2$$  as well as the following vector to be considered in the "rreduce" function $$(2, 1, 2, 1,-1)$$ from the right and left with the comparison with the "Reduce" function in R.
 
 ## License
 
